@@ -25,4 +25,5 @@ Hey there! 👋 I'm Jibin, your friendly neighborhood data analyst at IQVIA, whe
 
 🧬 Curator Extraordinaire: Passionately dedicated for over a year to curating content related to cancer at PierianDx (now Velsera), I've contributed to advancements in oncology research.
 
-Looking forward to discussing more! 😊 Feel free to reach out so we can learn and explore together! 🌟💬
+Looking forward to discussing more! 😊 
+Feel free to reach out so we can learn and explore together! 🌟💬
