@@ -9,7 +9,7 @@ redirect_from:
 
 Hey there! 👋 I'm Jibin, your friendly neighborhood data analyst at IQVIA, where I dive into the exciting world of clinical trial healthcare data!
 
-🎓 Masters in Biotechnology: Equipped with exceptional knowledge in biotechnology, I've honed my skills through hands-on lab research and meticulous data analysis.
+🎓 <b>Masters in Biotechnology</b>: Equipped with exceptional knowledge in biotechnology, I've honed my skills through hands-on lab research and meticulous data analysis.
 
 💻 SAS Programmer: Specializing in tailoring programs to format clinical trial data for external clients and crafting standard programs for internal use, I ensure seamless data management.
 
