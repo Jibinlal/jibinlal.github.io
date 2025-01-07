@@ -7,22 +7,30 @@ redirect_from:
   - /about.html
 ---
 
-Hey there! 👋 I'm Jibin, your friendly neighborhood data analyst at IQVIA, where I dive into the exciting world of clinical trial healthcare data!
+Hello! 👋 I’m Jibin, a passionate data analyst at IQVIA, working in the dynamic field of clinical trial healthcare data. Here’s a little about me:
 
-🎓 <b>Masters in Biotechnology</b>: Equipped with exceptional knowledge in biotechnology, I've honed my skills through hands-on lab research and meticulous data analysis.
+🎓<b> Masters in Biotechnology:</b> 
+With a solid foundation in biotechnology, I’ve developed expertise through hands-on research and data analysis.
 
-💻 <b>SAS Programmer</b>: Specializing in tailoring programs to format clinical trial data for external clients and crafting standard programs for internal use, I ensure seamless data management.
+💻 <b>SAS Programmer: </b>
+I specialize in designing tailored programs to format clinical trial data for external clients and developing standard internal programs, ensuring efficient data management.
 
-📊 <b>SQL Wizard</b>: As a go-to SQL programmer, I help colleagues whip up queries in no time and spearheaded an automation project that significantly reduced manual workloads.
+🧬 <b>Curator in Oncology: </b>
+During my year-long tenure at PierianDx (now Velsera), I dedicated myself to curating cancer-related content, contributing to the advancement of oncology research.
 
-⚙️ <b>ActiveBatch Aficionado</b>: Mastering ActiveBatch isn't just my forte; I've also stepped into the role of a global mentor, equipping over 20 new team members with the skills needed to excel.
+📊 <b>SQL Expert: </b>
+As the go-to SQL programmer, I assist colleagues in creating queries swiftly and led an automation project that significantly reduced manual tasks.
 
-📈 <b>Google Sheets Guru</b>: Leveraging macros to automate tasks, I've drastically reduced team effort by over 100 hours per month, enhancing efficiency.
+⚙️ <b>ActiveBatch Enthusiast: </b>
+Beyond mastering ActiveBatch, I proudly mentor over 20 new team members, helping them develop the skills to excel in their roles.
 
-🐍 <b>Python Explorer</b>: Embarking on a journey with Python, I eagerly delve into creating ML models for data science projects, seeking to contribute to innovative solutions and expand my skills.
+📈 <b>Google Sheets Innovator: </b>
+By automating tasks with macros, I’ve saved the team over 100 hours per month, boosting overall productivity.
 
-📊 <b>Tableau Tinkerer</b>: I'm in the process of mastering Tableau, learning to craft engaging dashboards and delve into data analysis to support informed decision-making.
+🐍 <b>Python Explorer:</b> 
+Currently exploring Python to build machine learning models for data science projects, I’m eager to contribute to innovative solutions and grow my technical expertise.
 
-🧬 <b>Curator Extraordinaire</b>: Passionately dedicated for over a year to curating content related to cancer at PierianDx (now Velsera), I've contributed to advancements in oncology research.
+📊 <b>Intermediate in Tableau and Power BI: </b>
+I have a solid intermediate level of experience with both Tableau and Power BI, designing impactful dashboards and performing in-depth data analysis to drive informed decision-making.
 
-Looking forward to discussing more! 😊 <br>Feel free to reach out so we can learn and explore together! 🌟💬
+I look forward to connecting and discussing how we can learn and grow together! 😊 Feel free to reach out! 🌟💬
